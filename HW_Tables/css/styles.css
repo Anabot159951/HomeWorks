@@ -1,0 +1,6 @@
+.items tbody tr:nth-of-type(2n) {
+	background-color: rgb(146, 252, 194);
+}
+tr {
+	color: orange;
+}

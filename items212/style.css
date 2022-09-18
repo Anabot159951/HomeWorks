@@ -1,0 +1,21 @@
+.item {
+    display: inline-block;
+    vertical-align: top;
+    min-width: 300px;
+    width: 33%;
+    min-height: 200px;
+    background-color: rgb(240, 152, 70);
+}
+
+.item-name {
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.item-count {
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
